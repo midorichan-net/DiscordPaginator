@@ -1,2 +1,2 @@
-# DiscordEmbedPaginator
-discord用EmbedPaginator (python製)
+# DiscordPaginator
+discord用Paginator (python製)
