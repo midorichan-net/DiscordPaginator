@@ -161,7 +161,7 @@ class TextPaginator:
                     else:
                         text = self.get_page(p)
             
-            await msg.edit(text)
+            await msg.edit(content=text)
 
 class EmbedPaginator:
     
